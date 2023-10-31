@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Welcome to my Github! My name is Omar El Ghali I'm a computer science student at ESPRIT with a strong passion for technology and a focus on software development. My journey includes academic studies, internships, and personal projects, building a solid foundation in computer science principles. I'm constantly driven to innovate and stay updated with industry trends. My goal is to create exceptional apps that positively impact users' lives. Let's connect and explore opportunities together!</h4>
+<p align="left">Welcome to my Github! My name is Omar El Ghali I'm a computer science student at ESPRIT with a strong passion for technology and a focus on software development. My journey includes academic studies, internships, and personal projects, building a solid foundation in computer science principles. I'm constantly driven to innovate and stay updated with industry trends. My goal is to create exceptional apps that positively impact users' lives. Let's connect and explore opportunities together!</p>
 
 ###
 
